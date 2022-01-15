@@ -3,20 +3,11 @@ aiohttp==3.7.4.post0
 alabaster==0.7.12
 alpha-vantage==2.3.1
 altair==4.1.0
-anaconda-client==1.7.2
-anaconda-navigator==1.10.0
-anaconda-project==0.8.3
-argh==0.26.2
-astor==0.8.1
-astropy==4.0.2
 astunparse==1.6.3
 async-generator==1.10
 async-timeout==3.0.1
 atomicwrites==1.4.0
 backcall==0.2.0
-backports.entry-points-selectable==1.1.0
-backports.shutil-get-terminal-size==1.0.0
-backports.weakref==1.0.post1
 base58==2.1.0
 bkcharts==0.2
 blinker==1.4
@@ -64,10 +55,6 @@ ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jdcal==1.4.1
 Jinja2==2.11.2
-json5==0.9.5
-jupyter==1.0.0
-jupyter-core==4.6.3
-jupyterlab==2.2.6
 Keras==2.4.3
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
@@ -126,7 +113,6 @@ pyparsing==2.4.7
 pyreadline==2.1
 PySocks==1.7.1
 pytest==0.0.0
-python-dateutil==2.8.1
 pytz==2020.1
 pywin32==227
 pywin32-ctypes==0.2.0
@@ -190,4 +176,3 @@ xmltodict==0.12.0
 yarl==1.6.3
 yfinance==0.1.59
 zict==2.0.0
-zope.event==4.5.0
