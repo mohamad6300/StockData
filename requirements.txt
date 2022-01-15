@@ -80,9 +80,6 @@ pluggy==0.13.1
 ply==3.11
 prometheus-client==0.8.0
 protobuf==3.17.3
-pyreadline==2.1
-PySocks==1.7.1
-pytest==0.0.0
 pytz==2020.1
 pywin32==227
 pywin32-ctypes==0.2.0
