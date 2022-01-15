@@ -102,15 +102,6 @@ terminado==0.9.1
 testpath==0.4.4
 tifffile==2020.10.1
 unicodecsv==0.14.1
-webcolors==1.11.1
-webencodings==0.5.1
-Werkzeug==1.0.1
-widgetsnbextension==3.5.1
-win-inet-pton==1.1.0
-win-unicode-console==0.5
-wincertstore==0.2
-wrapt==1.12.1
-xmltodict==0.12.0
 yarl==1.6.3
 yfinance==0.1.59
 
