@@ -56,14 +56,6 @@ lazy-object-proxy==1.4.3
 libarchive-c==2.9
 llvmlite==0.34.0
 locket==0.2.0
-Markdown==3.3.4
-MarkupSafe==1.1.1
-mccabe==0.6.1
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-mpmath==1.1.0
-msgpack==1.0.0
 multidict==5.1.0
 multipledispatch==0.6.0
 multitasking==0.0.9
