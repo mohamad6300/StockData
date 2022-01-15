@@ -55,6 +55,7 @@ Keras-Preprocessing==1.1.2
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
 llvmlite==0.34.0
+locket==0.2.0
 multidict==5.1.0
 multipledispatch==0.6.0
 multitasking==0.0.9
@@ -85,8 +86,9 @@ scikit-image==0.17.2
 scikit-learn==0.24.1
 Send2Trash==1.5.0
 simplegeneric==0.8.1
-sip==4.19.13
 sklearn==0.0
+smmap==4.0.0
+snowballstemmer==2.0.0
 statsmodels==0.12.0
 streamlit==0.82.0
 tables==3.6.1
@@ -99,12 +101,7 @@ termcolor==1.1.0
 terminado==0.9.1
 testpath==0.4.4
 tifffile==2020.10.1
-tornado==6.0.4
-tzlocal==2.1
 unicodecsv==0.14.1
-validators==0.18.2
-vboxapi==1.0
-virtualenv==20.6.0
 webcolors==1.11.1
 webencodings==0.5.1
 Werkzeug==1.0.1
@@ -113,5 +110,7 @@ win-inet-pton==1.1.0
 win-unicode-console==0.5
 wincertstore==0.2
 wrapt==1.12.1
+xmltodict==0.12.0
 yarl==1.6.3
 yfinance==0.1.59
+
